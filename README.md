@@ -10,7 +10,7 @@ You are required to build an e-commerce backend using FastAPI and MongoDB. The a
 
 ---
 
-## ⚙️ Tech Stack
+ ## ⚙️ Tech Stack
 
 - **Language**: Python 3.10+
 - **Framework**: [FastAPI](https://fastapi.tiangolo.com/)
@@ -27,4 +27,15 @@ You are required to build an e-commerce backend using FastAPI and MongoDB. The a
 
 ```bash
 git clone https://github.com/swarnavopramanik/ShopEngine.git
+
+```
+
+## ✅ Project Demo 
+
+<img width="1919" height="970" alt="Screenshot 2025-07-20 212333" src="https://github.com/user-attachments/assets/78dc07c7-97b0-4057-98b3-1a9c8536e956" />
+<img width="1919" height="967" alt="Screenshot 2025-07-20 212354" src="https://github.com/user-attachments/assets/4d61a92a-5879-4a10-b7d1-4d7e57060897" />
+<img width="1667" height="694" alt="Screenshot 2025-07-20 212422" src="https://github.com/user-attachments/assets/8f4eee96-8c92-4d9b-baf4-0e2018d0964c" />
+<img width="1753" height="935" alt="Screenshot 2025-07-20 212503" src="https://github.com/user-attachments/assets/c6e70a38-7415-4068-9b95-a33ca45fa604" />
+
+
 
