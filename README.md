@@ -4,6 +4,12 @@ A sample backend-only e-commerce application built using **FastAPI** and **Mongo
 
 ---
 
+
+
+https://github.com/user-attachments/assets/9393dd88-c9b0-44fa-a5f4-f152e74bc315
+
+
+
 ## 📌 Problem Statement
 
 You are required to build an e-commerce backend using FastAPI and MongoDB. The application must expose APIs for managing products and orders. It supports features like filtering, searching, and pagination.
@@ -40,6 +46,7 @@ git clone https://github.com/swarnavopramanik/ShopEngine.git
 
 ## Deploy ✅
 
-- [LINK](https://shopengine.onrender.com/users)
+- [LIVE LINK](https://shopengine.onrender.com/users)
+- [VIDEO LINK](https://vimeo.com/1103153020?share=copy)
 
 
