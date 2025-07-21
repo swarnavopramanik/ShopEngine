@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "687ddcc341b4489e8540b34b"
+  },
+  "name": "T-shirt",
+  "description": "Cotton",
+  "price": 500,
+  "sizes": [
+    "small",
+    "medium",
+    "large"
+  ]
+},
+{
+  "_id": {
+    "$oid": "687ddcd041b4489e8540b34c"
+  },
+  "name": "shirt",
+  "description": "Cotton",
+  "price": 800,
+  "sizes": [
+    "small",
+    "medium",
+    "large"
+  ]
+},
+{
+  "_id": {
+    "$oid": "687de20d6c0b2c650e7ecfa0"
+  },
+  "name": "casual pants",
+  "description": "Cotton",
+  "price": 1000,
+  "sizes": [
+    "34",
+    "38",
+    "40"
+  ]
+},
+{
+  "_id": {
+    "$oid": "687de24f6c0b2c650e7ecfa1"
+  },
+  "name": "cargo pants",
+  "description": "Cotton",
+  "price": 1200,
+  "sizes": [
+    "34",
+    "38",
+    "40"
+  ]
+},
+{
+  "_id": {
+    "$oid": "687de2bf6c0b2c650e7ecfa2"
+  },
+  "name": "sando",
+  "description": "Cotton",
+  "price": 400,
+  "sizes": [
+    "L",
+    "XL",
+    "XXL"
+  ]
+}]
