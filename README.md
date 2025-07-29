@@ -6,7 +6,8 @@ A sample backend-only e-commerce application built using **FastAPI** and **Mongo
 
 ## 📌 Problem Statement
 
-You are required to build an e-commerce backend using FastAPI and MongoDB. The application must expose APIs for managing products and orders. It supports features like filtering, searching, and pagination.
+You need to create a sample backend application in FastAPI and Python. The challenge assumes you have basic knowledge of Python and some knowledge of Flask / Django / FastAPI. You have to learn the basics of FastAPI and build an application with the APIs, and save the data in MongoDB.
+
 
 ---
 
